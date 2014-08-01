@@ -1,0 +1,299 @@
+原文链接：http://baoz.me/452378
+【Android 部分】
+
+Android 开发资源列表 (Sharif Ahmed)
+https://github.com/fig4ever/feeds/blob/master/The%20BIG%20List%20of%20Android%20Dev%20Resources%20%20%40sharif's%20blog/The%20BIG%20List%20of%20Android%20Dev%20Resources%20%20%40sharif's%20blog.md
+感谢 @观弈道人 _的整理。原文地址：http://pragmaticsharif.wordpress.com/2013/10/06/android-resources/
+
+我如何在 23 天内开发了一款 Android 游戏？ (Bigosaur)
+http://bigosaur.com/blog/23days
+23 天，每天 1 篇 Blog，从 0 开始，完整记录。
+
+Android 学习教程
+http://guides.codepath.com/android
+CodePath 出品的 Android 学习教程，从入门到精通。
+
+面向忙碌开发者的 Android 视频教程 (Tuts+)
+http://courses.tutsplus.com/courses/android-for-the-busy-developer
+如果你很忙碌，但又对 Android 开发有兴趣，推荐这个视频教程，基于 IntelliJ IDEA 开发。
+
+Android 测试入门 (Corey Scott)
+http://www.sage42.org/2013/11/25/getting-started-with-android-testing/
+讲解细致，文尾的幻灯片不错。
+
+Android Bootstrap
+https://github.com/Bearded-Hen/Android-Bootstrap
+让你的 Android 应用也有 Bootstrap 3.0 的 UI 效果
+
+[PDF] Android 性能小贴士 (Romain Guy & Chet Haase)
+http://vdisk.weibo.com/s/G-kaugh6K5Wk
+144页的干货分享原始链接：https://www.dropbox.com/sh/b5eobrkhyt0h1rs/GPgO8zJG10/Devoxx%202013/Performance%20Tips.pdf
+
+[PDF] Android 应用中使用 Dagger (Jake Wharton)
+https://speakerdeck.com/jakewharton/android-apps-with-dagger
+Dagger 是一种 Android 平台的依赖注入框架
+
+Android 应用性能优化
+http://blog.venmo.com/hf2t3h4x98p5e13z82pl8j66ngcmry/performance-tuning-on-android
+来自 Venmo 工程师的实战经验分享
+
+[PNG] iOS 和 Android 设计指南速查表 (Jake McKibben)
+http://www.kinvey.com/blog/images/2013/05/kinvey-design-guidelines-cheat-sheet-050913a1.png
+不算最新，供参考。
+
+《Android 测试与调试实战》参考资料（ @施懿民 ）
+https://plus.google.com/communities/112928495323595574856
+内容包括 Java、Android 调试和性能优化，需梯子。
+
+Android 事件传递机制（ @唐韧 _Ryan）
+http://www.infoq.com/cn/articles/android-event-delivery-mechanism
+每个Android工程师都应该看看的文章，科普有深度。via @KorukHwang
+
+[PDF] Android 开发技巧新整理（ @51 CTO技术社区）
+http://vdisk.weibo.com/s/vGN5SGTuNuer/1388728058
+90 个 Android 开发技巧
+
+Android 开发者必备的42个链接 (Mikail)
+http://cogitolearning.co.uk/?p=858
+根据官方网站、教程、视频教程、工具、App 界面设计、牛人博客做的个别的推荐，适合各种类型的开发者浏览订阅。via @InfoQ
+
+一些有用的 Android adb 命令 (Daniel Imms)
+http://www.growingwiththeweb.com/2014/01/handy-adb-commands-for-android.html
+官方 adb 参考文档：http://developer.android.com/tools/help/adb.html
+
+Android 布局优化（ @唐韧 _Ryan）
+http://www.infoq.com/cn/articles/android-optimise-layout
+如何正确、高效地使用布局方式来组织UI控件，是我们构建优秀 Android App 的主要前提之一。
+
+系列教程：开发你的第一个 Android 应用 (Matt Luedke)
+http://www.raywenderlich.com/56107/make-first-android-app-part-1
+此为第一部分，第二部分：http://www.raywenderlich.com/56109/make-first-android-app-part-2
+第三部分：http://www.raywenderlich.com/56111/make-first-android-app-part-3
+
+[slide] Android 函数响应式编程 (Yaroslav Heriatovych)
+http://slides.com/yaroslavheriatovych/frponandroid/
+Android 开发中的函数响应式编程，很深入。
+
+面向 iOS 开发者的 Android 系列教程
+http://www.objc.io/issue-11/
+objc.io 出品，Android 开发者同样不容错过。
+
+[译] Android 通知中心（ @唯木念 ）
+http://objccn.io/issue-11-4/
+原文地址：http://www.objc.io/issue-11/android-notifications.html
+
+使用 Android API 最佳实践 (MeetMe)
+http://engineering.meetme.com/2014/03/best-practices-for-consuming-apis-on-android/
+如何在Android应用中集成第三方API？译文：http://blog.jobbole.com/65170/
+
+《50 Android Hacks》读书笔记 (Vector_Yi)
+http://blog.csdn.net/vector_yi/article/category/2217405
+原书购买地址：http://www.manning.com/sessa/
+
+Android 开源项目分类汇总 ( @Trinea )
+https://github.com/Trinea/android-open-project
+给力！
+
+系列文章：Android 开发小贴士 (Dan Lew)
+http://blog.danlew.net/2014/03/30/android-tips-round-up-part-1/
+此为第 1 部分，第 2 部分：http://blog.danlew.net/2014/04/14/android-tips-round-up-part-2/
+第 3 部分：http://blog.danlew.net/2014/04/28/android-tips-round-up-part-3/
+第 4 部分：http://blog.danlew.net/2014/05/12/android-tips-round-up-part-4/
+
+Android Arsenal - 一个 Android 学习资源网站
+http://android-arsenal.com/
+大量 Android 学习资源，分类细致。感谢 @KorukHwang 的推荐
+
+[译] Android 开发者必知的 5 个开源库（ @刘璐璐 ）
+http://www.csdn.net/article/2014-06-16/2820224-top-5-android-libraries
+原文地址：https://www.infinum.co/the-capsized-eight/articles/top-5-android-libraries-every-android-developer-should-know-about
+
+SEAndroid 安全机制简要介绍和学习计划（ @罗升阳 ）
+http://blog.csdn.net/luoshengyang/article/details/35392905
+从 4.3 开始，Android 引入了 SEAndroid 安全机制来加强系统安全性
+
+Android 学习之路 ( @googdev )
+http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/
+一份值得收藏的 Android 学习资料
+
+【iOS 部分】
+
+iOS 设计模式解析
+http://www.raywenderlich.com/46988/ios-design-patterns
+推荐iOS开发者们阅读。源码下载地址：http://cdn2.raywenderlich.com/wp-content/uploads/2013/08/BlueLibrary-final.zip
+
+iOS 开发工具列表
+http://ios.devtools.me/
+持续更新中
+
+[译] iOS 设计模式 ( @Krq _Tiger)
+http://xmuzyq.iteye.com/blog/1942376
+本文将带你使用绝大多数 Cocoa 中频繁使用的 iOS 设计模式
+
+[PDF] iOS 应用上架检查表 (Dave Addey)
+http://daveaddey.com/postfiles/AgantReleaseChecklist2013.pdf
+iOS 应用上架前需要做哪些准备工作？作者列了一个清单，可以拿来作参考。GitHub 地址：https://github.com/oisin/app-release-checklist
+
+600 个开源 iOS 项目分类和介绍 (ibireme)
+http://daveaddey.com/postfiles/AgantReleaseChecklist2013.pdf
+GitHub 上大概 600 个开源 iOS 项目的分类和介绍，对于你挑选和使用开源项目应该有帮助。via @唐巧 _boy
+
+Objective-C 对象模型及应用（ @唐巧 _boy）
+http://blog.devtang.com/blog/2013/10/15/objective-c-object-model/
+本文主要介绍 Objective-C 对象模型的实现细节，以及 Objective-C 对象模型中对 isa swizzling 和 method swizzling 的支持。
+
+iOS 开发常用库索引 (cngump)
+http://idevchina.com/t/20
+海量内容，感谢 @老甘 的整理。
+
+[译] iOS 7 人机界面指南 - UI 元素(下)（维娜酥）
+http://isux.tencent.com/ios-human-interface-guidelines-ui-design-ios7-ui-2.html
+本文主要翻译了 iOS Human Interface Guideline 的 Part 4 - UI Element 的后半部分，包括控件和临时视图。上篇：http://isux.tencent.com/ios-human-interface-guidelines-ui-design-ios7-ui-1.html
+
+iOS 7 开源项目干货集合 ( @CocoaChina )
+http://www.cocoachina.com/applenews/devnews/2013/1024/7234.html
+关于 iOS 7 的开源项目，包括设计素材、效果实现和代码例子。
+
+[译] 系列文章：iOS 应用程序安全（ @吴发伟Ted ）
+http://wufawei.com/2013/11/ios-application-security-summary/
+足足 22 篇，辛苦译者。原文出处：http://resources.infosecinstitute.com/
+
+[PDF] Objective-C 速查表 v1.5 (Ray Wenderlich)
+http://vdisk.weibo.com/s/G-kaugh6K59J
+更新至 Xcode 5 原始链接
+
+10 个迷惑新手的 Cocoa&Objective-c 开发问题 ( @keefo )
+http://lianxu.me/2012/11/10-cocoa-objc-newbie-problems/
+感谢 @刘鑫Mars 的推荐
+
+[译] iOS 探索：iOS 程序的 Build 过程 ( @BeyondVincent )
+http://beyondvincent.com/blog/2013/11/21/123-build-process/
+本文将带你探索 iOS 程序的 Build 过程，了解背后一些不为人知的秘密。原文地址：http://www.objc.io/issue-6/build-process.html
+
+Objective-C Foundation 框架 (objc.io)
+http://www.objc.io/issue-7/
+iOS 开发者必读
+
+iOS 开发工具——网络封包分析工具 Charles（ @唐巧 _boy）
+http://www.infoq.com/cn/articles/network-packet-analysis-tool-charles
+Charles 是在 Mac 下常用的截取网络封包的工具，在做 iOS 开发时，为了调试与服务器端的网络通讯协议，常常需要截取网络封包来分析。
+
+iOS 7 最佳实践 - 一个天气应用 (Ryan Nystrom)
+http://www.raywenderlich.com/55384/ios-7-best-practices-part-1
+此为上篇，下篇：http://www.raywenderlich.com/55386/ios-7-best-practices-part-2 感谢 @张文琳 的分享。
+
+iOS 设计新手指导 ( @CocoaChina )
+http://www.cocoachina.com/newbie/basic/2013/1225/7607.html
+如果你既做开发又做设计，这篇文章值得一读。
+
+iOS 7 Tech Talk 视频
+https://developer.apple.com/tech-talks/videos/
+需用开发者账号登录
+
+[视频] 斯坦福大学 iOS 开发课程
+https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550
+覆盖最新的 iOS7 和 Xcode5，目前已经有 4 个课时的录像和 Slides。via @CodingTogether
+
+谷歌分析 iOS 开发包实战 (Scott Sherwood)
+http://www.raywenderlich.com/zh-hans/62378/%E8%B0%B7%E6%AD%8C%E5%88%86%E6%9E%90ios%E5%BC%80%E5%8F%91%E5%8C%85%E5%AE%9E%E6%88%98
+RW 出品，你将会学习 Google Analytics 在 iOS 上的实际应用案例。
+
+电子书《iOS7 Day by Day》 (Sam Davies)
+https://leanpub.com/ios7daybyday
+iOS7 Day-by-Day 系列博客文章，作者出了电子书，可以自己设定价格购买或免费获得。via @吴发伟Ted
+
+[译] 如何自定义 iOS 中的控件 ( @BeyondVincent )
+http://beyondvincent.com/blog/2014/01/20/how-to-build-a-custom-control-in-ios/
+原文地址：http://www.thinkandbuild.it/how-to-build-a-custom-control-in-ios/
+
+[译] iOS 7 中实现模糊效果 ( @BeyondVincent )
+http://beyondvincent.com/blog/2014/01/29/ios-7-blur-effects-gpuimage/
+原文地址：http://www.raywenderlich.com/60968/ios-7-blur-effects-gpuimage
+
+[PDF] iOS 安全白皮书
+http://images.apple.com/ipad/business/docs/iOS_Security_Feb14.pdf
+Apple 官方出品
+
+写给 iOS 开发者的 Android 教程 (Stuart Hall)
+http://stuartkhall.com/posts/android-development-tips-for-ios-devs
+作者有 5 年的 iOS 开发经验，写得不错。
+
+写给 iOS 开发者的 C++ 教程 (Matt Galloway)
+http://www.raywenderlich.com/62989/introduction-c-ios-developers-part-1
+系列文章，此为第一部分，第二部分：http://www.raywenderlich.com/62990/introduction-c-ios-developers-part-2
+
+一些不错的 iOS 开发者网站 ( @Girl _iOS)
+http://girlios.github.io/blog/2014/03/10/ios-development-sites/
+感谢作者的整理
+
+Apple 设计资源列表
+https://developer.apple.com/design/
+官方出品
+
+iCreator - 一个用于生成 iOS 应用图标和启动屏图片的命令行工具
+https://github.com/finscn/icreator
+基于 Node 和 ImageMagick，感谢作者 @大城小胖 。
+
+中文 iOS/Mac 开发博客列表（ @唐巧 _boy）
+https://github.com/tangqiaoboy/iOSBlogCN
+多谢整理
+
+[译] 减小 iOS 应用程序的大小 ( @BeyondVincent )
+http://beyondvincent.com/blog/2014/03/24/reducing-the-size-of-my-app/
+本文收集了一些减小程序安装包大小的相关技巧
+
+[译] iOS 开发者有价值的工具集 ( @CocoaChina )
+http://www.cocoachina.com/applenews/devnews/2014/0307/7936.html
+工具，你懂的。
+
+[译] 为一个iOS应用编写一个简单的 Node.js/MongoDB Web 服务 ( @nixzhu )
+https://github.com/nixzhu/dev-blog/blob/master/2014-04-21-write-a-simple-nodejs-mongodb-web-service-for-an-ios-app.md
+原文地址：http://www.raywenderlich.com/61078/write-simple-node-jsmongodb-web-service-ios-app
+
+iOS 应用安全开发，你不知道的那些事（ @唐巧 _boy）
+http://www.csdn.net/article/2014-04-30/2819573-The-Secret-Of-App-Dev-Security
+本文从网络安全、本地文件和数据安全、源代码安全三个方面概述 iOS 移动应用在安全方面所面临的挑战以及应对措施。
+
+系列文章：iOS 安全与逆向工程（ @吴发伟Ted ）
+http://security.ios-wiki.com/
+对iOS安全、逆向工程的基本流程，以及涉及到的工具进行简要的介绍。目前已完成 3 章。
+
+谈谈 iOS 8 和 OS X 10.10 的 Extension（ @图拉鼎 ）
+http://imtx.me/archives/1898.html
+推荐对 iOS 8 和 OS X 10.10 的扩展感兴趣的同学阅读
+
+[译] iOS 8 新特性 (David Liu)
+http://nshipster.cn/ios8/
+来自大神 Mattt Thompson，原文地址：http://nshipster.com/ios8/。
+
+那些好用的 iOS 开发工具（ @唐巧 _boy）
+http://blog.devtang.com/blog/2014/06/29/ios-dev-tools/
+应用工具 + 命令行工具 + 插件工具
+
+码农周刊《Swift 特刊》
+http://swift.manong.io/
+码农周刊为你精心打造《Swift 特刊》，将 Swift 干货一网打尽！
+
+SwiftChina - Swift 中国社区
+http://swift.sh/
+内容质量较高
+
+The Swift Programming Language 中文版（ @Swift中文翻译组 ）  
+http://numbbbbb.gitbooks.io/-the-swift-programming-language-/
+感谢译者们
+
+2014 European LLVM 大会幻灯片和视频  
+http://llvm.org/devmtg/2014-04/
+最近 Swift 很火，免不了要提 LLVM。
+
+Swift 简介 ( @peng _gong)  
+http://zh.lucida.me/blog/an-introduction-to-swift/
+一篇不错的中文简介
+
+Swift 编程风格指南（raywenderlich.com 版本）
+http://swiftist.org/topics/165
+原始版本：https://github.com/raywenderlich/swift-style-guide
+
+Swift 语言指南 ( @SwiftLanguage ) 
+http://dev.swiftguide.cn/
+不错的整理
